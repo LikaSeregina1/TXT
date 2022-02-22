@@ -1,0 +1,7 @@
+Sklls
+           bush
+	   json,xml
+	   Linux
+	   Android studio
+	   Postman
+	   Python
